@@ -7,7 +7,7 @@ from PIL import Image
 import os
 import dog
 
-TOKENTG = '7894635272:AAED5lqr7bolGZ1R0JxR3mzQalR5VTiOqhQ'
+TOKENTG = 'yourtoken'
 bot = telebot.TeleBot(TOKENTG)
 @bot.message_handler(commands = ['pol'])
 def pol(message):
