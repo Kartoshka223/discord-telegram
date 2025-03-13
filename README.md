@@ -36,6 +36,7 @@ Run the bots:
 python tgbot.py  # Start Telegram bot
 python dsbot.py   # Start Discord bot
 
+---
 
 ##⚠️ Notes
 file.txt is auto-created for message storage
