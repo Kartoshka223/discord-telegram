@@ -1,4 +1,4 @@
-# Cross-Platform Message & Media Bot 🤖  
+ # Cross-Platform Message & Media Bot 🤖  
 **Telegram + Discord Integration**  
 
 ---
@@ -38,7 +38,7 @@ python dsbot.py   # Start Discord bot
 
 ---
 
-##⚠️ Notes
+## ⚠️ Notes
 file.txt is auto-created for message storage
 
 Image folders (papka_s_kotikami, etc.) are generated automatically
